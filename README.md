@@ -10,3 +10,10 @@ Hi there 👋<br><br>I'm Arpit Shivhare, a Computer Science student with a stron
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arpitshivhare46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=arpitshivhare46&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arpitshivhare46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arpitshivhare46&limit=5&theme=dark&combine_all_yearly_contributions=true)
